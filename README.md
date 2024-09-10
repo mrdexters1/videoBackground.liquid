@@ -2,4 +2,4 @@
 
 Adding a video background to your Shopify home page
 
-updated version on January 3, 2022
+updated version on September 10, 2024
